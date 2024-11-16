@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\user_connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\user_connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\mange_participants_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\mange_participants_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_bookedevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_bookedevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage_organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage_organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage_participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage_participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\view_booked_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\view_booked_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage_organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\manage_organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\eventclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\eventclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\remove_an_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\remove_an_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_bookedevents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_bookedevents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\cb013248_windows_forms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\cb013248_windows_forms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\cb013248_windows_forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\cb013248_windows_forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\remove_an_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\remove_an_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\common forms for all 3 actors\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\common forms for all 3 actors\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\common forms for all 3 actors\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\common forms for all 3 actors\\login_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\organizer_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\participant\u0027s form\\partcicpant_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\participant\u0027s form\\partcicpant_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\participant\u0027s form\\partcicpant_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\participant\u0027s form\\partcicpant_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\participant\u0027s form\\registeredeventlist_andunregisterevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\participant\u0027s form\\registeredeventlist_andunregisterevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\participant\u0027s form\\register_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\participant\u0027s form\\register_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\remove_an_event.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\remove_an_event.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\create_event.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\organizer\u0027s forms\\create_event.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\admin\u0027s forms\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\admin\u0027s forms\\admin_dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|e:\\first year\\second semester\\assignment submitted files\\sdam - 2 c#\\mine\\cb013248\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\common forms for all 3 actors\\login_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10248DC6-652D-41DC-BC7A-9611103C705D}|CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj|solutionrelative:cb013248_windows_forms\\windows forms\\common forms for all 3 actors\\login_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\assignment\\cb013248_windows_forms\\cb013248_windows_forms\\windows forms\\admin\u0027s \u0026 organizer\u0027s common forms\\view_booked_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\cb013248_windows_forms\\organizer_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\cb013248_windows_forms\\registeredeventlist_andunregisterevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\cb013248_windows_forms\\register_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\cb013248_windows_forms\\manage event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\cb013248_windows_forms\\create_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Assignment\\CB013248_Windows_Forms\\cb013248_windows_forms\\windows forms\\admin\u0027s \u0026 organizer\u0027s common forms\\manage_participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register_Events.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Register_Events.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Register_Events.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Register_Events.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Register_Events.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAEBEwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:17:50.725Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Participant.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\Participant.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Participant.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\Participant.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAA1wLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:11:58.559Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Eventclass.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Eventclass.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\Eventclass.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Eventclass.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\Eventclass.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAxwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:40:26.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\User.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\User.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\User.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwC8BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:39:43.37Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login_Screen.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:36:38.686Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage Event.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs [Design]",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:17:13.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage Event.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage Event.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:08:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:03:49.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Admin.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\Admin.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Admin.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\Admin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwE4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:26:57.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User_Connection.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\User_Connection.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\User_Connection.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\User_Connection.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\User_Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:26:04.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create_Event.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:42:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Organizer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\Organizer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Organizer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\Organizer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:51:30.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manage_Organizer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:54:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Booking.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\Booking.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Booking.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:05:11.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Organizer_bookedevents.Designer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.Designer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.Designer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.Designer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:07:58.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Remove_An_Event.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:02:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Classes\\Program.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Classes\\Program.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Classes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:39:59.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CB013248_Windows_Forms.csproj",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "RelativeToolTip": "CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T03:04:04.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CB013248_Windows_Forms",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "RelativeToolTip": "CB013248_Windows_Forms\\CB013248_Windows_Forms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T07:11:28.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "View_Booked_Events.cs",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:26:47.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login_Screen.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAABAwDwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:37:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Manage_Participants.cs",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:54:13.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Organizer_Screen.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA1wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:36:36.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA/wC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:08:29.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Partcicpant_Form.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:35:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisteredEventList_AndUnregisterEvent.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\RegisteredEventList_AndUnregisterEvent.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\RegisteredEventList_AndUnregisterEvent.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\RegisteredEventList_AndUnregisterEvent.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\RegisteredEventList_AndUnregisterEvent.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA5wDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:10:11.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Remove_An_Event.Designer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.Designer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.Designer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.Designer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:03:53.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create_Event.Designer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.Designer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.Designer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.Designer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:55:25.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Admin_Dashboard.Designer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.Designer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.Designer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Admin_Dashboard.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T03:03:33.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login_Screen.Designer.cs",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.Designer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.Designer.cs",
+              "ToolTip": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.Designer.cs",
+              "RelativeToolTip": "CB013248_Windows_Forms\\Windows Forms\\Common Forms for all 3 Actors\\Login_Screen.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:15:32.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create_Event.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Create_Event.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:17:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mange_Participants_Org.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Mange_Participants_Org.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Mange_Participants_Org.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Mange_Participants_Org.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Mange_Participants_Org.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:17:32.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Organizer_bookedevents.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_bookedevents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:08:05.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Organizer_Screen.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Organizer_Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:27:27.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manage_Organizer.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Organizer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:42:00.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manage_Participants.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Participants.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Participants.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Participants.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\Manage_Participants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:27:12.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "View_Booked_Events.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\View_Booked_Events.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\View_Booked_Events.cs",
+              "ToolTip": "E:\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\View_Booked_Events.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\SUBMISSION\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s Forms\\View_Booked_Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:17:18.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Remove_An_Event.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Organizer\u0027s Forms\\Remove_An_Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:46:49.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "View_Booked_Events.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\View_Booked_Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:26:07.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Manage_Participants.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Admin\u0027s \u0026 Organizer\u0027s Common forms\\Manage_Participants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:42:01.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Organizer_Screen.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Organizer_Screen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Organizer_Screen.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Organizer_Screen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Organizer_Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:41:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Partcicpant_Form.cs [Design]",
+              "DocumentMoniker": "E:\\First Year\\Second Semester\\Assignment Submitted Files\\SDAM - 2 C#\\Mine\\CB013248\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs",
+              "RelativeDocumentMoniker": "CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Windows Forms\\Participant\u0027s Form\\Partcicpant_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:12:16.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisteredEventList_AndUnregisterEvent.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\RegisteredEventList_AndUnregisterEvent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\RegisteredEventList_AndUnregisterEvent.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\RegisteredEventList_AndUnregisterEvent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\RegisteredEventList_AndUnregisterEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:04:46.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register_Events.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Register_Events.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Register_Events.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Register_Events.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Register_Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:17:57.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Manage Event.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Manage Event.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Manage Event.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Manage Event.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Manage Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:47:08.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create_Event.cs [Design]",
+              "DocumentMoniker": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Create_Event.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Create_Event.cs",
+              "ToolTip": "E:\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Create_Event.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Assignment\\CB013248_Windows_Forms\\CB013248_Windows_Forms\\Create_Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:10:06.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

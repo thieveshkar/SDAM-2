@@ -1,0 +1,166 @@
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.exe
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.deps.json
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.runtimeconfig.json
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Login_Screen.resources
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.GenerateResource.cache
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfoInputs.cache
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfo.cs
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.CoreCompileInputs.cache
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\refint\CB013248_Windows_Forms.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.genruntimeconfig.cache
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\ref\CB013248_Windows_Forms.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.AssemblyReference.cache
+C:\Users\thiev\source\repos\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248.F2498B48.Up2Date
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.exe
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.deps.json
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.runtimeconfig.json
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.AssemblyReference.cache
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Properties.Resources.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Admin_Dashboard.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Events.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Organizer.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Participants.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.View_Booked_Events.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Login_Screen.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Create_Event.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Mange_Participants_Org.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Organizer_bookedevents.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Organizer_Screen.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Remove_An_Event.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Partcicpant_Form.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.RegisteredEventList_AndUnregisterEvent.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Register_Events.resources
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.GenerateResource.cache
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfoInputs.cache
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfo.cs
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.CoreCompileInputs.cache
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248.F2498B48.Up2Date
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\refint\CB013248_Windows_Forms.dll
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.genruntimeconfig.cache
+E:\Assignment\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\ref\CB013248_Windows_Forms.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.exe
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.deps.json
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.runtimeconfig.json
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.AssemblyReference.cache
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Properties.Resources.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Admin_Dashboard.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Events.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Organizer.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Participants.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.View_Booked_Events.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Login_Screen.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Create_Event.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Mange_Participants_Org.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Organizer_bookedevents.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Organizer_Screen.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Remove_An_Event.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Partcicpant_Form.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.RegisteredEventList_AndUnregisterEvent.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Register_Events.resources
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.GenerateResource.cache
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfoInputs.cache
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfo.cs
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.CoreCompileInputs.cache
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248.F2498B48.Up2Date
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\refint\CB013248_Windows_Forms.dll
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.genruntimeconfig.cache
+E:\SUBMISSION\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\ref\CB013248_Windows_Forms.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.exe
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.deps.json
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.runtimeconfig.json
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.AssemblyReference.cache
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Properties.Resources.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Admin_Dashboard.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Events.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Organizer.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Manage_Participants.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.View_Booked_Events.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Login_Screen.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Create_Event.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Mange_Participants_Org.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Organizer_bookedevents.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Organizer_Screen.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Remove_An_Event.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Partcicpant_Form.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.RegisteredEventList_AndUnregisterEvent.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.Register_Events.resources
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.GenerateResource.cache
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfoInputs.cache
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.AssemblyInfo.cs
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.csproj.CoreCompileInputs.cache
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248.F2498B48.Up2Date
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\refint\CB013248_Windows_Forms.dll
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.pdb
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\CB013248_Windows_Forms.genruntimeconfig.cache
+E:\First Year\Second Semester\Assignment Submitted Files\SDAM - 2 C#\Mine\CB013248\CB013248_Windows_Forms\CB013248_Windows_Forms\obj\Debug\net8.0-windows\ref\CB013248_Windows_Forms.dll

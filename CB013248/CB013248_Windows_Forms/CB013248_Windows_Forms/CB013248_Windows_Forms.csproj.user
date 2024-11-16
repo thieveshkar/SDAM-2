@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Windows Forms\Organizer's Forms\Mange_Participants_Org.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Organizer's Forms\Organizer_bookedevents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Organizer's Forms\Create_Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Admin's Forms\Manage Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Common Forms for all 3 Actors\Login_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Admin's Forms\Admin_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Admin's Forms\Manage_Organizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Admin's Forms\Manage_Participants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Organizer's Forms\Organizer_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Participant's Form\Partcicpant_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Participant's Form\RegisteredEventList_AndUnregisterEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Participant's Form\Register_Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Organizer's Forms\Remove_An_Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows Forms\Admin's Forms\View_Booked_Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
