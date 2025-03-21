@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Thievshkar
+Copyright (c) 2024 Thievshkar, Anuji Ranasinghe, Olivia Palix, Himashi Rathnasekara
 
 Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that the following conditions are met:
 
