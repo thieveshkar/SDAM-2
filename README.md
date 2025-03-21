@@ -87,3 +87,7 @@ To set up and test the Event Management System locally, follow these steps:
 - **Repository Name**: **SDAM-2**
 - **GitHub Link**: [https://github.com/thieveshkar/SDAM-2](https://github.com/thieveshkar/SDAM-2)
 
+## License
+
+This project is for educational purposes only. You may **not use, distribute, or modify** this project in any form unless explicitly granted permission by me.
+
