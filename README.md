@@ -89,5 +89,11 @@ To set up and test the Event Management System locally, follow these steps:
 
 ## License
 
-This project is for educational purposes only. You may **not use, distribute, or modify** this project in any form unless explicitly granted permission by me.
+This project is for educational purposes only. You may use this project only if authorized by one of the contributors.
+
+## Contributors
+
+- **Thieveshkar**  
+- **Anuji Ranasinghe**  
+- **Olivia Palix** 
 
